@@ -22,8 +22,8 @@ I'm a B.Tech Computer Science student aiming to become a Full Stack MERN Develop
 ## 📫 Contact
 
 - **Email**: samarth@example.com  
-- **GitHub**: [github.com/yourusername](https://github.com/realsam.007)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/samarth-bhardwaj-53b6242b3/)
+- **GitHub**: [github.com/realsam007](https://github.com/realsam007)  
+- **LinkedIn**: [linkedin.com/in/samarth-bhardwaj-53b6242b3/](https://linkedin.com/in/samarth-bhardwaj-53b6242b3/)
 
 ---
 
